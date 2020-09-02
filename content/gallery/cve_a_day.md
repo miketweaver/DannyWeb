@@ -2,7 +2,7 @@
 weight = 10
 date = "2017-05-15T20:00:16-07:00"
 title = "CVE A Day"
-image = "Twitter_Logo_blue.png"
+image = "Twitter-Logo-blue.png"
 alt = "CVE A Day"
 color = "#212121"
 linkView = "https://twitter.com/CVE_A_Day"
